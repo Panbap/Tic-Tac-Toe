@@ -61,6 +61,7 @@ open index.html      # macOS
 start index.html     # Windows
 
 ## 🧠 Cách hoạt động
+
 Người chơi là X, AI là O
 
 Trò chơi dùng minimax() để tìm nước đi tốt nhất
