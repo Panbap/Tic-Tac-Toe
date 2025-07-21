@@ -48,7 +48,8 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 
 ---
 
-### ⚙️ Cài đặt & chạy
+## ⚙️ Cài đặt & chạy
+
 bash
 Copy
 Edit
@@ -64,7 +65,7 @@ start index.html     # Windows
 
 ---
 
-#### 🧠 Cách hoạt động
+## 🧠 Cách hoạt động
 
 Người chơi là X, AI là O
 
