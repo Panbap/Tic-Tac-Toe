@@ -41,13 +41,10 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 ## 📂 Cấu trúc dự án
 
 ```text
-js/
-├── game/
-│   ├── index.html              # Giao diện chính
-│   ├── AITicTacToe.js          # Logic AI và trò chơi
-├── icon/
-│   └── TicTacToe.ico           # Favicon
-└── README.md                   # Tài liệu dự án
+ Tic-Tac-Toe/
+├── index.html              # Giao diện chính
+├── AITicTacToe.js          # Logic AI và trò chơi
+└── README.md               # Tài liệu dự án
 
 ⚙️ Cài đặt & chạy
 bash
