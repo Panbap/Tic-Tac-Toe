@@ -40,12 +40,13 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 ---
 
 ## 📂 Cấu trúc dự án
-
-text
+```text
 Tic-Tac-Toe/
 ├── index.html              # Giao diện chính
 ├── AITicTacToe.js          # Logic AI và trò chơi
 └── README.md               # Tài liệu dự án
+```
+---
 
 ## ⚙️ Cài đặt & cách chơi
 
