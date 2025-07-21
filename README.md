@@ -49,7 +49,7 @@ Tic-Tac-Toe/
 
 ## ⚙️ Cài đặt & cách chơi
 
-1. Cài đặt
+> 1. Cài đặt
 bash
 Copy
 Edit
@@ -67,7 +67,7 @@ open index.html
 Windows:
 start index.html
 
-2. Cách hoạt động
+> 2. Cách hoạt động
 Người chơi là X, AI là O
 
 AI sử dụng thuật toán minimax() để tìm nước đi tối ưu
