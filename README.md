@@ -60,8 +60,10 @@ Di chuyển vào thư mục game
 cd js/game
 
 # Mở file trong trình duyệt
+
 macOS:
 open index.html
+
 Windows:
 start index.html
 
@@ -78,7 +80,7 @@ Khi kết thúc, hệ thống hiển thị kết quả:
 
 Không cần backend – chạy hoàn toàn trên trình duyệt
 
-📜 Giấy phép
+# 📜 Giấy phép
 Dự án được phát hành dưới giấy phép MIT License.
 
-🧠 Dự án cá nhân nhằm thực hành AI cơ bản trong game mini.
+> 🧠 Dự án cá nhân nhằm thực hành AI cơ bản trong game mini.
