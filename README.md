@@ -53,13 +53,13 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 bash
 Copy
 Edit
-# Clone repository
+Clone repository
 git clone https://github.com/Panbap/js.git
 
-# Di chuyển vào thư mục game
+Di chuyển vào thư mục game
 cd js/game
 
-# Mở file trong trình duyệt (click hoặc lệnh)
+Mở file trong trình duyệt (click hoặc lệnh)
 open index.html      # macOS
 start index.html     # Windows
 
