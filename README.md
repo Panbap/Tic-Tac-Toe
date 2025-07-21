@@ -28,7 +28,7 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 ---
 
 ## 🛠️ Công nghệ sử dụng
-
+```text
 | Công nghệ     | Mô tả                                      |
 |--------------|---------------------------------------------|
 | `HTML5`       | Tạo cấu trúc trang                         |
@@ -36,7 +36,7 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 | `JavaScript`  | Xử lý logic game & trí tuệ nhân tạo        |
 | `Minimax`     | Thuật toán giúp AI tìm nước đi tối ưu      |
 | `jsDelivr`    | Load `AITicTacToe.js` nhanh từ GitHub CDN |
-
+```
 ---
 
 ## 📂 Cấu trúc dự án
