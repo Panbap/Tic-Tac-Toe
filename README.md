@@ -46,6 +46,8 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 ├── AITicTacToe.js          # Logic AI và trò chơi
 └── README.md               # Tài liệu dự án
 
+---
+
 ### ⚙️ Cài đặt & chạy
 bash
 Copy
@@ -59,6 +61,8 @@ cd js/game
 # Mở file trong trình duyệt (click hoặc lệnh)
 open index.html      # macOS
 start index.html     # Windows
+
+---
 
 #### 🧠 Cách hoạt động
 
