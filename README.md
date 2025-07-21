@@ -10,6 +10,7 @@ Trò chơi Caro (Tic-Tac-Toe) cổ điển kết hợp với **Trí tuệ nhân 
 
 🔗 Truy cập demo trực tuyến:  
 👉 https://panbap.github.io/Tic-Tac-Toe
+
 Hoặc tải về và mở `index.html` bằng trình duyệt.
 
 ---
