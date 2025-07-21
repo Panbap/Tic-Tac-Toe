@@ -48,6 +48,7 @@ Tic-Tac-Toe/
 └── README.md               # Tài liệu dự án
 
 ## ⚙️ Cài đặt & cách chơi
+
 1. Cài đặt
 bash
 Copy
