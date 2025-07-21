@@ -53,16 +53,16 @@ Tic-Tac-Toe/
 bash
 Copy
 Edit
-# Clone repository
+Clone repository
 git clone https://github.com/Panbap/js.git
 
-# Di chuyển vào thư mục game
+Di chuyển vào thư mục game
 cd js/game
 
 # Mở file trong trình duyệt
-# macOS:
+macOS:
 open index.html
-# Windows:
+Windows:
 start index.html
 
 2. Cách hoạt động
