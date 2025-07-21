@@ -46,7 +46,7 @@ Hoặc tải về và mở `index.html` bằng trình duyệt.
 ├── AITicTacToe.js          # Logic AI và trò chơi
 └── README.md               # Tài liệu dự án
 
-⚙️ Cài đặt & chạy
+## ⚙️ Cài đặt & chạy
 bash
 Copy
 Edit
@@ -60,7 +60,7 @@ cd js/game
 open index.html      # macOS
 start index.html     # Windows
 
-🧠 Cách hoạt động
+## 🧠 Cách hoạt động
 Người chơi là X, AI là O
 
 Trò chơi dùng minimax() để tìm nước đi tốt nhất
@@ -71,4 +71,4 @@ Khi kết thúc, hệ thống thống kê kết quả
 
 Trò chơi không cần backend – chạy 100% client-side
 
-🧠 Dự án cá nhân phục vụ học tập và thực hành AI trong game mini.
+## 🧠 Dự án cá nhân phục vụ học tập và thực hành AI trong game mini.
